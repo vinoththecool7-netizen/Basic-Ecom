@@ -1,6 +1,6 @@
 # Everyday carry
 
-A local React recreation of [E-commerce 04 by Mohammad Shehadeh / Hirael](https://21st.dev/@mohammadshehadeh/components/ecommerce-04), based on the supplied MIT-licensed source.
+A local React recreation of E-commerce  based on the supplied MIT-licensed source.
 
 ### One-command startup (new setup or restart)
 
