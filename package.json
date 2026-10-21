@@ -1,0 +1,10 @@
+{
+  "name": "everyday-carry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "node server/index.js", "build": "vite build", "start": "node server/index.js --production", "preview": "node server/index.js --production", "test": "node --test server/*.test.js" },
+  "engines": { "node": ">=24" },
+  "dependencies": { "lucide-react": "^0.468.0", "react": "^19.0.0", "react-dom": "^19.0.0" },
+  "devDependencies": { "vite": "^7.0.0" }
+}
